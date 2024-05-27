@@ -1,6 +1,10 @@
 # AI Algorithms Cheat Sheet
+Version Date: 27.05.2024 / Copyright (c) 2024 Michael Boeni (zen@eistengaming.com) [MIT License]
+
+## Table of Contents
 
 - [AI Algorithms Cheat Sheet](#ai-algorithms-cheat-sheet)
+  - [Table of Contents](#table-of-contents)
   - [Supervised Learning Algorithms](#supervised-learning-algorithms)
     - [Regression](#regression)
     - [Regression (Parametric)](#regression-parametric)
