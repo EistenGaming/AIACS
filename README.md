@@ -2,7 +2,7 @@
 
 There is more to AI than LLMs.
 
-The "AI Algorithms Cheat Sheet" aims to be a useful resource for your AI ambitions. Its goal is to provide a way for developers to find algorithms that fit their business or research problem best. The algorithm are categorized into three main sections: Supervised Algorithms, Semi-Supervised Algorithms and Unsupervised Algorithms.
+The "AI Algorithms Cheat Sheet" aims to be a useful resource for your AI ambitions. Its goal is to provide a way for researchers and developers to find algorithms that fit their business or research problem best. The algorithms (around 300 at this time) are categorized into three main sections: Supervised Algorithms, Semi-Supervised Algorithms and Unsupervised Algorithms.
 
 Each entry names the algorithm, offers a short description, use cases and a rationale for the mentioned use cases.
 
